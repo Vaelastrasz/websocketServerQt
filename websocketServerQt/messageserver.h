@@ -3,19 +3,26 @@
 
 #include <QObject>
 #include <QtWebSockets>
+#include <QWebSocketServer>
 #include <QList>
+#include <QMap>
+#include "transporthandler.h"
 
 class MessageServer : public QObject
 {
     Q_OBJECT
 public:
-    explicit MessageServer(QObject *parent = 0);
+    MessageServer(QWebSocketServer *server, QObject *parent = 0);
 
 private:
-    QList<QWebSocket*> m_clientList;
-signals:
+    QList<TransportHandler*> m_clientList;
+    QWebSocketServer* m_server;
 
-public slots:
+signals:
+    void clientConnected(TransportHandler* clientTransport);
+
+private slots:
+    void handleNewConnection();
 };
 
 #endif // MESSAGESERVER_H
