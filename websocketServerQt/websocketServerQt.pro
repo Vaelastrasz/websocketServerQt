@@ -16,11 +16,13 @@ SOURCES += main.cpp\
         mainwindow.cpp \
     messageserver.cpp \
     logger.cpp \
-    generalfunctions.cpp
+    generalfunctions.cpp \
+    transporthandler.cpp
 
 HEADERS  += mainwindow.h \
     messageserver.h \
     logger.h \
-    generalfunctions.h
+    generalfunctions.h \
+    transporthandler.h
 
 FORMS    += mainwindow.ui

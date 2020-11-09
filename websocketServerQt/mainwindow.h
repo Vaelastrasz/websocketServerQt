@@ -23,6 +23,8 @@ private slots:
 
     void on_btn_startServ_clicked();
 
+    void on_btn_stopServ_clicked();
+
 private:
     Ui::MainWindow *ui;
     Logger* m_log;
