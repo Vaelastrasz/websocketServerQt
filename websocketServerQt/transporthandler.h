@@ -18,6 +18,9 @@ public slots:
 private slots:
     void textMessageReceived(const QString &message);
 
+signals:
+    void disconnected();
+
 private:
     QWebSocket* m_socket;
     Logger* m_log;

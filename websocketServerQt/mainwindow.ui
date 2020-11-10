@@ -64,8 +64,16 @@ p, li { white-space: pre-wrap; }
      </item>
      <item row="4" column="0" colspan="2">
       <widget class="QLabel" name="lbl_serverStatus">
+       <property name="font">
+        <font>
+         <pointsize>10</pointsize>
+        </font>
+       </property>
        <property name="text">
-        <string/>
+        <string>Server_Idle</string>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
        </property>
       </widget>
      </item>

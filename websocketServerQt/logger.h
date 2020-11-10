@@ -7,6 +7,7 @@
 #include <QTextBrowser>
 #include <QDebug>
 #include <QDateTime>
+#include <QDir>
 #include <typeinfo>
 
 enum LogLevel {
