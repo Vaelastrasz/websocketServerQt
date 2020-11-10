@@ -9,7 +9,8 @@ bool Logger::setLogFile(QString filePath) {
 
     m_logFile.setFileName(filePath);
     if (!m_logFile.open(QFile::Append)) {
-        qDebug() << "Cannot open file " + filePath + "! Check file and try again";
+        qDebug() << "Cannot open file " + filePath + "! Setting default logs file...";
+        setLogFile(QDir::currentPath() + "\\..\\websocketServerQt\\logs\\log.txt");
         return false;
     }
     return true;
@@ -24,27 +25,33 @@ bool Logger::setLogBrowser(QWidget* widget) {
     m_textWidget = (QTextBrowser*)widget;
     return true;
 }
-void Logger::addToLog(QString message, LogLevel logLvl) {
-    addToFileLog(message, logLvl);
 
+void Logger::addToLog(QString message, LogLevel logLvl) {
+
+    addToFileLog(message, logLvl);
     switch (logLvl) {
     case llInformation:
         m_textWidget->append(message);
         break;
+
     case llDebug:
         qDebug() << "DEBUG:" + message;
         break;
+
     case llError:
         m_textWidget->append("<b><p style=\"color:red\">" + message + "</p></b>");
         break;
+
     case llSuccess:
         m_textWidget->append("<b><p style=\"color:green\">" + message + "</p></b>");
         break;
+
     default:
         break;
     }
 }
 void Logger::addToFileLog(QString message, LogLevel logLvl) {
+
     if (!m_logFile.isOpen()) {
         qDebug() << "File is not open; Please click \"Set log file\" and select proper log file";
         return;
@@ -54,11 +61,13 @@ void Logger::addToFileLog(QString message, LogLevel logLvl) {
 }
 
 Logger::~Logger() {
+
     if (m_instance) delete m_instance;
     if (m_logFile.isOpen()) m_logFile.close();
 }
 
 Logger *Logger::getInstance() {
+
     if (m_instance == nullptr){
         m_instance = new Logger();
     }

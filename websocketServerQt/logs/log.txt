@@ -3,3 +3,162 @@
 09.11.2020 02:53:54[DEBUG]:New log session started!
 09.11.2020 02:55:39[DEBUG]:New log session started!
 09.11.2020 03:09:09[DEBUG]:New log session started!
+09.11.2020 22:42:54[DEBUG]:New log session started!
+09.11.2020 22:45:24[DEBUG]:New log session started!
+09.11.2020 22:48:22[DEBUG]:New log session started!
+09.11.2020 22:48:36[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:48:37[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:48:38[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:48:38[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:48:39[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:48:39[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:48:40[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:48:40[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:48:40[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:48:40[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:48:40[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:48:40[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:48:41[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:48:41[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:48:41[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:49:42[DEBUG]:New log session started!
+09.11.2020 22:49:50[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:49:53[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:49:53[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:49:54[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:49:54[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:52:02[INFO]:Msg recv: awdawdwadwad
+09.11.2020 22:52:04[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:52:07[INFO]:Msg recv: awdawdwadwad
+09.11.2020 22:52:15[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:52:16[INFO]:Msg recv: awdawdwadwad
+09.11.2020 22:52:16[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdawdawdawd
+09.11.2020 22:52:17[INFO]:Msg recv: awdawdwadwad
+09.11.2020 22:52:26[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdaadawdaawdawdawdasedgdssegeastgesgaesgawdawdwadwadwadawdaadawdaawdawdawdasedgdssegeastgesgaesgawdawdwadwadwadawdaadawdaawdawdawdasedgdssegeastgesgaesgawdawdwadwadwadawdaadawdaawdawdawdasedgdssegeastgesgaesgawdawdwadwadwadawdaadawdaawdawdawdasedgdssegeastgesgaesgawdawdwadwadwadawdaadawdaawdawdawd
+09.11.2020 22:52:26[INFO]:Msg recv: asedgdssegeastgesgaesgawdawdwadwadwadawdaadawdaawdawdawdasedgdssegeastgesgaesgawdawdwadwadwadawdaadawdaawdawdawdasedgdssegeastgesgaesgawdawdwadwadwadawdaadawdaawdawdawdasedgdssegeastgesgaesgawdawdwadwadwadawdaadawdaawdawdawdasedgdssegeastgesgaesgawdawdwadwadwadawdaadawdaawdawdawd10.11.2020 01:14:42[DEBUG]:New log session started!
+10.11.2020 01:15:55[DEBUG]:New log session started!
+10.11.2020 01:16:24[DEBUG]:New log session started!
+10.11.2020 01:16:28[ERROR]:Failed to stop web socket server!
+10.11.2020 01:16:29[ERROR]:Failed to stop web socket server!
+10.11.2020 01:16:30[ERROR]:Failed to stop web socket server!
+10.11.2020 01:16:30[ERROR]:Failed to stop web socket server!
+10.11.2020 01:16:30[ERROR]:Failed to stop web socket server!
+10.11.2020 01:16:30[ERROR]:Failed to stop web socket server!
+10.11.2020 01:16:30[ERROR]:Failed to stop web socket server!
+10.11.2020 01:17:45[DEBUG]:New log session started!
+10.11.2020 01:18:26[DEBUG]:New log session started!
+10.11.2020 01:20:20[DEBUG]:New log session started!
+10.11.2020 01:21:11[DEBUG]:New log session started!
+10.11.2020 01:24:25[DEBUG]:New log session started!
+10.11.2020 01:25:05[DEBUG]:New log session started!
+10.11.2020 01:27:54[DEBUG]:New log session started!
+10.11.2020 01:29:02[DEBUG]:New log session started!
+10.11.2020 01:29:04[SUCCESS]:Server started successfully!
+10.11.2020 01:29:05[SUCCESS]:Server stopped successfully!
+10.11.2020 01:29:06[SUCCESS]:Server started successfully!
+10.11.2020 01:29:06[SUCCESS]:Server stopped successfully!
+10.11.2020 01:29:07[SUCCESS]:Server started successfully!
+10.11.2020 01:29:08[SUCCESS]:Server stopped successfully!
+10.11.2020 01:29:09[SUCCESS]:Server started successfully!
+10.11.2020 01:29:09[SUCCESS]:Server stopped successfully!
+10.11.2020 01:29:10[SUCCESS]:Server started successfully!
+10.11.2020 01:29:10[SUCCESS]:Server stopped successfully!
+10.11.2020 01:29:10[SUCCESS]:Server started successfully!
+10.11.2020 01:29:11[SUCCESS]:Server stopped successfully!
+10.11.2020 01:29:11[SUCCESS]:Server started successfully!
+10.11.2020 01:29:12[SUCCESS]:Server stopped successfully!
+10.11.2020 01:40:40[DEBUG]:New log session started!
+10.11.2020 01:40:42[SUCCESS]:Server started successfully!
+10.11.2020 01:40:56[SUCCESS]:Server stopped successfully!
+10.11.2020 01:40:57[SUCCESS]:Server started successfully!
+10.11.2020 01:40:57[SUCCESS]:Server stopped successfully!
+10.11.2020 01:40:58[SUCCESS]:Server started successfully!
+10.11.2020 01:40:58[SUCCESS]:Server stopped successfully!
+10.11.2020 01:40:59[SUCCESS]:Server started successfully!
+10.11.2020 01:41:04[SUCCESS]:Server stopped successfully!
+10.11.2020 01:41:16[SUCCESS]:Server started successfully!
+10.11.2020 01:42:28[DEBUG]:New log session started!
+10.11.2020 01:42:34[SUCCESS]:Server started successfully!
+10.11.2020 01:43:35[DEBUG]:New log session started!
+10.11.2020 01:44:10[DEBUG]:New log session started!
+10.11.2020 01:44:11[SUCCESS]:Server started successfully!
+10.11.2020 01:50:43[DEBUG]:New log session started!
+10.11.2020 01:50:44[SUCCESS]:Server started successfully!
+10.11.2020 01:50:51[SUCCESS]:Server stopped successfully!
+10.11.2020 01:50:58[SUCCESS]:Server started successfully!
+10.11.2020 01:52:37[DEBUG]:New log session started!
+10.11.2020 01:52:39[SUCCESS]:Server started successfully!
+10.11.2020 01:52:42[INFO]:New user connected: 127.0.0.1
+10.11.2020 01:52:46[INFO]:Msg recv: asedgdssegeastg
+10.11.2020 01:52:47[INFO]:Msg recv: asedgdssegeastg
+10.11.2020 01:52:47[INFO]:Msg recv: asedgdssegeastg
+10.11.2020 01:52:47[INFO]:Msg recv: asedgdssegeastg
+10.11.2020 01:53:10[INFO]:New user connected: 127.0.0.1
+10.11.2020 01:53:12[INFO]:Msg recv: awdawdawd
+10.11.2020 01:53:14[INFO]:Msg recv: awdawdawdwadawd
+10.11.2020 01:53:20[INFO]:User disconnected: 127.0.0.1
+10.11.2020 01:53:48[INFO]:New user connected: 127.0.0.1
+10.11.2020 01:53:50[INFO]:User disconnected: 127.0.0.1
+10.11.2020 01:53:50[INFO]:New user connected: 127.0.0.1
+10.11.2020 01:53:54[INFO]:Msg recv: awdadawdwada
+10.11.2020 01:54:03[INFO]:Msg recv: asedgdssegeastg
+10.11.2020 01:55:03[DEBUG]:New log session started!
+10.11.2020 01:55:04[SUCCESS]:Server started successfully!
+10.11.2020 01:55:09[INFO]:New user connected: 127.0.0.1
+10.11.2020 01:55:14[INFO]:New user connected: 127.0.0.1
+10.11.2020 01:55:20[INFO]:User disconnected: 127.0.0.1
+10.11.2020 01:55:22[INFO]:New user connected: 127.0.0.1
+10.11.2020 01:55:23[INFO]:User disconnected: 127.0.0.1
+10.11.2020 01:55:23[INFO]:New user connected: 127.0.0.1
+10.11.2020 01:55:25[INFO]:User disconnected: 127.0.0.1
+10.11.2020 01:55:26[INFO]:New user connected: 127.0.0.1
+10.11.2020 01:55:34[INFO]:Msg recv: adadwadaw
+10.11.2020 01:55:52[INFO]:User disconnected: 127.0.0.1
+10.11.2020 01:59:51[SUCCESS]:Server stopped successfully!
+10.11.2020 02:01:42[DEBUG]:New log session started!
+10.11.2020 02:04:01[DEBUG]:New log session started!
+10.11.2020 02:04:02[SUCCESS]:Server started successfully!
+10.11.2020 02:04:12[INFO]:New user connected: 127.0.0.1
+10.11.2020 02:04:15[INFO]:Message received: awdawdwa
+10.11.2020 02:04:19[INFO]:User disconnected: 127.0.0.1
+10.11.2020 02:04:31[INFO]:New user connected: 127.0.0.1
+10.11.2020 02:04:33[SUCCESS]:Server stopped successfully!
+10.11.2020 02:04:49[INFO]:Message received: adawd
+10.11.2020 02:04:52[INFO]:Message received: awdawdadawd
+10.11.2020 02:04:54[INFO]:Message received: awdawdawdadawdw
+10.11.2020 02:05:38[DEBUG]:New log session started!
+10.11.2020 02:05:42[SUCCESS]:Server started successfully!
+10.11.2020 02:05:43[INFO]:New user connected: 127.0.0.1
+10.11.2020 02:05:46[SUCCESS]:Server stopped successfully!
+10.11.2020 02:05:49[INFO]:Message received: adwadaw
+10.11.2020 02:08:00[DEBUG]:New log session started!
+10.11.2020 02:08:01[SUCCESS]:Server started successfully!
+10.11.2020 02:08:02[INFO]:New user connected: 127.0.0.1
+10.11.2020 02:08:05[INFO]:Message received: awdawdd
+10.11.2020 02:08:07[SUCCESS]:Server stopped successfully!
+10.11.2020 02:08:10[INFO]:Message received: awdawd
+10.11.2020 02:09:47[DEBUG]:New log session started!
+10.11.2020 02:13:57[DEBUG]:New log session started!
+10.11.2020 02:14:15[DEBUG]:New log session started!
+10.11.2020 02:14:24[SUCCESS]:Server started successfully!
+10.11.2020 02:14:32[INFO]:New user connected: 127.0.0.1
+10.11.2020 02:14:37[INFO]:Message received: hello
+10.11.2020 02:14:51[SUCCESS]:Server stopped successfully!
+10.11.2020 02:15:09[SUCCESS]:Server started successfully!
+10.11.2020 02:15:17[INFO]:User disconnected: 127.0.0.1
+10.11.2020 02:15:20[INFO]:New user connected: 127.0.0.1
+10.11.2020 02:15:21[INFO]:Message received: adadadad
+10.11.2020 02:15:24[SUCCESS]:Server stopped successfully!
+10.11.2020 02:15:31[INFO]:User disconnected: 127.0.0.1
+10.11.2020 02:15:39[SUCCESS]:Server started successfully!
+10.11.2020 02:15:40[INFO]:New user connected: 127.0.0.1
+10.11.2020 02:15:42[INFO]:Message received: adwadawd
+10.11.2020 02:15:49[INFO]:Message received: okay
+10.11.2020 02:15:58[INFO]:Message received: seems like its done
+10.11.2020 02:16:03[INFO]:Message received: time to commit!
+10.11.2020 02:16:06[INFO]:User disconnected: 127.0.0.1
+10.11.2020 02:16:08[SUCCESS]:Server stopped successfully!
+10.11.2020 02:17:21[DEBUG]:New log session started!
+10.11.2020 02:18:15[DEBUG]:New log session started!
+10.11.2020 02:18:18[SUCCESS]:Server started successfully!
+10.11.2020 02:22:03[DEBUG]:New log session started!

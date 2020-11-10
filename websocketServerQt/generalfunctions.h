@@ -4,11 +4,9 @@
 #include <QString>
 #include "logger.h"
 
-class GeneralFunctions
+namespace GeneralFunctions
 {
-public:
-    GeneralFunctions(){}
-    static QString logLevelToString(LogLevel value);
-};
+    QString logLevelToString(LogLevel value);
+}
 
 #endif // GENERALFUNCTIONS_H

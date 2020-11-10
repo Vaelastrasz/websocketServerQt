@@ -5,6 +5,7 @@
 #include <QtWebChannel>
 #include <QFileDialog>
 #include "logger.h"
+#include "messageserver.h"
 
 namespace Ui {
 class MainWindow;
@@ -25,9 +26,12 @@ private slots:
 
     void on_btn_stopServ_clicked();
 
+    void usersListUpdate();
+
 private:
     Ui::MainWindow *ui;
     Logger* m_log;
+    MessageServer* m_msgServer;
 };
 
 #endif // MAINWINDOW_H
